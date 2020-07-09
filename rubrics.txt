@@ -1,0 +1,64 @@
+##################CODE fUNCTIONALITY AND READABILITY ############################
+ # done
+@Code is readable (uses good coding practices - PEP8)
+
+Code has easy-to-follow logical structure. The code uses comments effectively 
+and/or Notebook Markdown cells correctly. The steps of the data science process 
+(gather, assess, clean, analyze, model, visualize) are clearly identified with 
+comments or Markdown cells, as well. The naming for variables and functions
+should be according to PEP8 style guide.
+
+# done 
+
+@Code is functional.
+All the project code is contained in a Jupyter notebook, which demonstrates successful execution and output of the code.
+
+
+@Write code that is well documented and uses functions and classes as necessary.
+
+Code is well documented and uses functions and classes as necessary. All functions include document strings. DRY principles are implemented.
+
+
+
+
+#################DATA ########################
+ #done 
+@Project follows the CRISP-DM Process while analyzing their data.
+
+Project follows the CRISP-DM process outlined for questions through communication.
+This can be done in the README or the notebook.
+If a question does not require machine learning, descriptive or 
+inferential statistics should be used to create a compelling answer to a particular
+question.
+
+
+@Proper handling of categorical and missing values in the dataset.
+
+Categorical variables are handled appropriately for machine learning models
+(if models are created). Missing values are also handled appropriately 
+for both descriptive and ML techniques.
+ Document why a particular approach was used, and why it was appropriate for a
+particular situation.
+
+
+##################### ANALYSIS , MODELING , VISUALIZATION ####################
+
+@There are 3-5 business questions answered.
+
+###################### Github ########################################
+@ must be a public repo 
+
+######################  blog Post ####################################
+
+@ communicate the finding with the stakeholders 
+
+@ there should be a intriguing title and image related to the project 
+
+@ the body of the post paragraph that are broken up  by the appropriate white space
+and image
+
+@Each questions has a clearly communicated solution 
+
+
+
+
