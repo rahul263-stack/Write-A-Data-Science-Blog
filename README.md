@@ -1,5 +1,26 @@
-# Write-A-Data-Science-Blog
-#Should you find a job in the Western World?
-#Project Containts -:
-#a- Data_science_blog_coding.ipynb(code part of this program )
-#b - main_blog.md (is the blog that i have written for this project)
+# Writing a data science Blog
+
+One Paragraph of project description goes here
+
+## Getting Started
+
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+### Prerequisites
+
+You need to be familier with python 3 along with its visualisation library
+
+
+
+### Installing
+
+To run data_Science_blog_coding.ipynb  you caan use anaconda 3.
+
+main_blog.md - It contains blog required for this project
+
+
+
+
+
+
+
